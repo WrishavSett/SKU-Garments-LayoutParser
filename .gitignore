@@ -1,0 +1,12 @@
+# Python environment
+venv/
+
+# Model data and outputs
+layout-model-training/outputs/Client1/
+layout-model-training/data/Client1/
+
+# Python library
+detectron2/
+
+# Dummy data
+folder/
